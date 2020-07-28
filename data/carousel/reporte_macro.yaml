@@ -1,0 +1,10 @@
+weight: 4
+title: "Informe de coyuntura"
+description: >
+  <ul class="list-style-none">
+    <li> Variables reales</li>
+    <li>Precios</li>
+    <li>Mecado cambiario</li>
+  </ul>
+image: "img/carousel/reporte_example.png"
+href: "https://beta.rstudioconnect.com/jjallaire/htmlwidgets-highcharter/htmlwidgets-highcharter.html"
